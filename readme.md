@@ -1,6 +1,6 @@
 <div align="center">
 
-# Graph Neural Network for Water Distribution System
+# Spatio-Temporal Graph Attention Network for Water Distribution Systems
 
 <img height=20 alt="PyG" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
 <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white"></a>
@@ -8,6 +8,8 @@
 <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>
 
 </div>
+
+The rest of the code will be released after the acceptance of the paper.
 
 ### Requirements:
 - python 3.12.9
