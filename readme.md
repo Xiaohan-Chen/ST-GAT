@@ -9,7 +9,10 @@
 
 </div>
 
-The rest of the code will be released after the acceptance of the paper.
+Official Implementation of the Paper:
+"A Ranked Contamination Diagnosis Method for Water Distribution Systems Using Spatio-Temporal Graph Neural Networks"
+
+Conference: [SysTol 2025](https://www.kios.ucy.ac.cy/systol25/)
 
 ### Requirements:
 - python 3.12.9
