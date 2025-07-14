@@ -144,7 +144,7 @@ def main(args):
 
     if not os.path.exists('./history'):
         os.makedirs('./history')
-    with open('./history/GNN_1.pkl', 'wb') as f:
+    with open('./history/GNN.pkl', 'wb') as f:
         pickle.dump(history, f)
 
 
